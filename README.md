@@ -1,0 +1,1 @@
+# Minimal test to demonstrate timing curiosity on STM32H7
